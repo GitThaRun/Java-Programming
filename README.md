@@ -31,6 +31,15 @@ Building logic and structuring code clearly ✨
 
 ---
 
-## 🧩 More Projects Coming Soon
+## 📌 Note
 
-This repository is actively growing! Here are some upcoming Java projects especially designed for students to practice logic, core concepts, and real-world application building
+🆕 I will keep updating this repo regularly with **new topics and problems** as I continue learning.
+
+---
+
+## 🔗 Connect
+
+📬 Let's learn and grow together!  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/jami-tharun/) or follow my progress!
+
+---
